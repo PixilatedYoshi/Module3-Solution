@@ -1,3 +1,7 @@
+* {
+	border-radius: 0px;
+}
+
 .container-fluid{
 	margin: 0;
 	padding: 0;
